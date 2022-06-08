@@ -1,2 +1,2 @@
 # BUTTON-GAME-PROTOTYPE
-#A simple button game.
+#A simple button chasing game.
