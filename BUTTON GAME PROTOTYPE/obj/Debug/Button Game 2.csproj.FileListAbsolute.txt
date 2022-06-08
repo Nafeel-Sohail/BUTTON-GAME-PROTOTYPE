@@ -1,0 +1,10 @@
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\bin\Debug\Button Game 2.exe.config
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\bin\Debug\Button Game 2.exe
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\bin\Debug\Button Game 2.pdb
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button Game 2.csprojAssemblyReference.cache
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button_Game_2.Form1.resources
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button_Game_2.Properties.Resources.resources
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button Game 2.csproj.GenerateResource.cache
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button Game 2.csproj.CoreCompileInputs.cache
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button Game 2.exe
+C:\Users\Nafeel Sohail\source\repos\Button Game 2\obj\Debug\Button Game 2.pdb
